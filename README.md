@@ -24,8 +24,12 @@ In this project, two widely recognized algorithms were employed to perform cross
 
 ## Results
 
+### Top Product Associations - Apriori
+
 ![Top Product Associations - Apriori](https://github.com/nih4t/Cross-Purchasing-Insights/assets/82613166/da26431e-ad5a-4b88-8709-0a10ef6d9967)
-  
+
+### Top Product Associations - Eclat
+
 ![Top Product Associations - Eclat](https://github.com/nih4t/Cross-Purchasing-Insights/assets/82613166/30b4cb1c-b730-4f20-9573-f032e8c066f5)
 
 Feel free to explore these images to gain insights into the significant associations identified by both the Apriori and Eclat algorithms. It is worth noting that the associations found by the Apriori algorithm tend to be stronger in terms of their support and confidence values.
